@@ -30,4 +30,4 @@ nala install yandex-browser-stable
 
 
 # Use nala
-#bash scripts/usenala
+bash scripts/usenala
